@@ -1,6 +1,6 @@
 # TrendPulse
 An AI-powered platform that predicts digital trends 72 hours before they peak, transforming creators from followers into market leaders.
-# TrendPulse
+
 
 ## Predictive Trend Intelligence
 **TrendPulse** is a smart platform designed to anticipate viral content **72 hours before it happens**. By analyzing Big Data and topic **Velocity**, we provide creators with the "unfair advantage" to lead the scene rather than just follow it.
